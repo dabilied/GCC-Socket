@@ -1,3 +1,4 @@
 GCC-Socket
 This is a GCC-Socket 
-<1>:make sure Dir-"bin" "include" "lib"- exited,then just type `make`;  
+make sure Dir "bin" "include" "lib"- exited,then just type `make`
+you can also rewrite some code to suit your case
